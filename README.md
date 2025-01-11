@@ -1,6 +1,6 @@
 # Electrum - Landing Page de E-commerce 🛒
 
-![Electrum Preview](https://via.placeholder.com/800x400)  
+![Electrum Preview](img/electrum-page.PNG)  
 *Uma landing page para e-commerce, desenvolvida com HTML, CSS e SASS.*
 
 ## 🌟 Visão Geral
