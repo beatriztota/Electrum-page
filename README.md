@@ -27,12 +27,11 @@ Estilização moderna com o uso de variáveis, mixins e estruturação SCSS.
 Clone o repositório:
 
 
-    ```
        git clone https://github.com/beatriztota/Electrum-page.git
        cd Electrum-page
 Abra o arquivo index.html no navegador para visualizar a página.
 
 
-    ```
+    
        npm install -g sass
        sass styles/main.scss styles/main.css
